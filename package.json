@@ -1,0 +1,23 @@
+{
+  "name": "testShippopAPI",
+  "version": "1.0.0",
+  "description": "test Shippop API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jetarin7t/testShippopAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jetarin7t/testShippopAPI/issues"
+  },
+  "homepage": "https://github.com/Jetarin7t/testShippopAPI#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
